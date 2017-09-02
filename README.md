@@ -19,7 +19,7 @@ For compile the firmware for Atmega8, you can run "make".
 
 Для постройки прошивки для Atmega8, Вы можете запустить "make".
 
-If you have any questions about this project, you can connect to me in Telegram https://t.me/Wladymyr .
+If you have any questions about this project, you can contact with me in Telegram https://t.me/Wladymyr .
 
 Якщо Ви маєте питання щодо цього проекту, Ви можете зв'язатися зі мною в Телеграмі https://t.me/Wladymyr .
 
